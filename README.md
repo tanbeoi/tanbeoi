@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Tan 👋
 
-<!--
-**tanbeoi/tanbeoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a Computer Science undergrad at Swinburne University.
 
-Here are some ideas to get you started:
+I build full-stack web applications using React and Node.js.
+Recently built a mini Cloudinary-style image service with AWS S3.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Cloudinary Dashboard (Frontend)
+- Mini Cloudinary API (Backend)
+
+Currently seeking software engineering internships.
+
