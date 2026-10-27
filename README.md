@@ -1,13 +1,26 @@
-Hi, I'm Tan 👋
+# Hi, I'm Tan 👋
 
-I'm currently a Computer Science undergrad at Swinburne University.
+Computer Science graduate from Swinburne University, interested in building practical, user-focused software.
 
-I build full-stack web applications using React and Node.js.
-Recently built a mini Cloudinary-style image service with AWS S3.
+I work across full-stack development using **TypeScript, React/Next.js, C#/.NET, PostgreSQL, REST APIs and AWS**, and regularly use AI coding agents such as **OpenAI Codex** for prototyping, debugging and code review while making sure I understand what I ship.
+
+My background in photography and media also shapes how I think about products, UX and visual quality.
 
 ## 🚀 Projects
-- Cloudinary Dashboard (Frontend)
-- Mini Cloudinary API (Backend)
 
-Currently seeking software engineering internships.
+### LinkLab
+A full-stack collaboration platform for creatives to find collaborators, organise ideas, manage applications, and turn completed work into galleries and portfolios.
 
+**Tech:** Next.js, TypeScript, ASP.NET Core, PostgreSQL, AWS S3, xUnit
+
+### Mini Cloudinary
+A Cloudinary-inspired image management platform supporting uploads, metadata, image transformations and signed URLs using AWS S3.
+
+**Tech:** React, Node.js, Express, AWS S3, Sharp
+
+## Currently
+
+- Finishing and deploying LinkLab
+- Exploring product engineering and creative technology
+- Building with AI-assisted development workflows
+- Looking for graduate / junior software engineering opportunities
