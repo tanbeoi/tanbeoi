@@ -18,13 +18,13 @@ A Cloudinary-inspired image management platform supporting uploads, metadata, im
 
 **Tech:** React, Node.js, Express, AWS S3, Sharp
 
-### FrameDeck
-A swipe-based photo proofing app for photographers and clients. Photographers upload proof galleries and share private links, while clients can review images using swipe gestures, mark favourites, leave comments, and return to their selections without creating a full account.
+### FrameDeck — In Development
+Currently building a swipe-based photo proofing app for photographers and clients. Photographers upload proof galleries and share private links, while clients can review images using swipe gestures, mark favourites, leave comments, and return to their selections without creating a full account.
 
 **Planned Tech:** Next.js, TypeScript, NestJS, PostgreSQL, Cloudflare R2
 
 ## Currently
 
-- Building creative-tech products for photographers and creators
+- Building FrameDeck and other creative-tech products for photographers and creators
 - Improving backend, system design, and cloud architecture skills
 - Looking for graduate / junior software engineering roles
